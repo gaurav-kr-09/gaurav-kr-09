@@ -1,7 +1,11 @@
 <h1 align="center">Hey 👋, I'm Gaurav Kumar</h1>
 
 <p align="center">
-  <b>Full Stack Developer • Backend Engineer • Classical Machine Learning & Data Science</b>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Backend+Engineer;Distributed+Systems+Enthusiast;Classical+Machine+Learning+%26+Data+Science;362%2B+LeetCode+Problems+Solved;Building+Scalable+Systems" />
+</p>
+
+<p align="center">
+  <b>Full Stack Developer • Backend Engineer • Distributed Systems • Classical Machine Learning</b>
 </p>
 
 <p align="center">
@@ -28,9 +32,12 @@ Education:
 
 Current Focus:
   - Software Engineering
-  - Backend Systems
-  - Distributed Architectures
+  - Distributed Systems
+  - Backend Architectures
   - Deep Learning
+
+Mindset:
+  Consistency over motivation.
 
 Principle:
   Once I decide to do something, I keep going until it's done.
@@ -120,6 +127,8 @@ When I commit to a goal, I keep working until it's achieved.
 
 🔌 API Gateway Pattern
 
+🔗 Repository: Add Link
+
 ---
 
 ## PrepWise AI
@@ -131,6 +140,8 @@ When I commit to a goal, I keep working until it's achieved.
 🧠 LLM Integration
 
 📊 Performance Feedback Dashboard
+
+🔗 Repository: Add Link
 
 ---
 
@@ -144,12 +155,18 @@ When I commit to a goal, I keep working until it's achieved.
 
 🎯 91% Prediction Accuracy
 
+🔗 Repository: Add Link
+
 ---
 
 # 🧩 LeetCode Analytics
 
 <p align="center">
 <img src="https://leetcard.jacoblin.cool/gaurav-kr-09?theme=dark&font=Nunito&ext=contest"/>
+</p>
+
+<p align="center">
+<i>Currently solving Data Structures & Algorithms daily and preparing for Software Engineering roles.</i>
 </p>
 
 ---
