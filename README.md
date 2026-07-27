@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Gaurav Kumar</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Backend+Engineer;Distributed+Systems+Enthusiast;Classical+Machine+Learning+%26+Data+Science;362%2B+LeetCode+Problems+Solved;Building+Scalable+Systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Backend+Engineer;Distributed+Systems+Enthusiast;Classical+Machine+Learning+%26+Data+Science;400%2B+LeetCode+Problems+Solved;Building+Scalable+Systems" />
 </p>
 
 <p align="center">
