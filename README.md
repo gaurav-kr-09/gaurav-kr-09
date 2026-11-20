@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Gaurav Kumar</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Backend+Engineer;Distributed+Systems+Enthusiast;Classical+Machine+Learning+%26+Data+Science;400%2B+LeetCode+Problems+Solved;Building+Scalable+Systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Backend+Engineer;Distributed+Systems+Enthusiast;Classical+Machine+Learning+%26+Data+Science;550%2B+LeetCode+Problems+Solved;Building+Scalable+Systems" />
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://gauravkumar.online">Portfolio</a> •
+  <a href="https://gauravkr09.in">Portfolio</a> •
   <a href="https://www.linkedin.com/in/gauravkr09/">LinkedIn</a> •
   <a href="https://github.com/gaurav-kr-09">GitHub</a> •
   <a href="https://leetcode.com/u/gaurav-kr-09/">LeetCode</a>
@@ -43,8 +43,8 @@ Principle:
   Once I decide to do something, I keep going until it's done.
 
 Fun Fact:
-  - 362+ LeetCode Problems Solved
-  - 143-Day Coding Streak
+  - 550+ LeetCode Problems Solved
+  - 300+ Days Coding Streak
   - Contest Rating: 1543
 ```
 
@@ -186,8 +186,8 @@ When I commit to a goal, I keep working until it's achieved.
 
 # 🏆 Achievements
 
-* ✅ 362+ LeetCode Problems Solved
-* ✅ 143-Day Coding Streak
+* ✅ 550+ LeetCode Problems Solved
+* ✅ 300+ Days Coding Streak
 * ✅ Contest Rating 1543
 * ✅ Built Distributed Microservices Architecture
 * ✅ Developed AI-Powered Applications
@@ -201,7 +201,7 @@ When I commit to a goal, I keep working until it's achieved.
 * Master System Design
 * Build Production-Grade Distributed Systems
 * Learn Deep Learning & MLOps
-* Reach 500+ LeetCode Problems
+* Learn Agentic AI
 * Secure a Full-Time Software Engineering Role
 
 ---
@@ -218,7 +218,7 @@ When I commit to a goal, I keep working until it's achieved.
 <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
 </a>
 
-<a href="https://gauravkumar.online">
+<a href="https://gauravkr09.in">
 <img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge"/>
 </a>
 
